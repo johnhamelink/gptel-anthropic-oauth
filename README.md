@@ -1,6 +1,6 @@
 # gptel-oauth
 
-> **⚠️ Warning:** Use at your own risk. We cannot guarantee that the use of this package is compliant with Anthropic's or OpenAI's Terms of Service.
+> **⚠️ Warning:** Use at your own risk. We cannot guarantee that the use of this package is compliant with Anthropic's Terms of Service.
 
 An OAuth (PKCE) backend for [gptel](https://github.com/karthink/gptel), giving access to **Claude** via a **Claude Pro/Max** subscription — no API key needed. The token is saved to disk and automatically refreshed before requests.
 
